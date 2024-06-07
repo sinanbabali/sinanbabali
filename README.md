@@ -58,5 +58,4 @@
 ###
 
 
-
-![snake gif](https://github.com/sinanbabali/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sinanbabali/sinanbabali/blob/output/github-contribution-grid-snake.gif)
